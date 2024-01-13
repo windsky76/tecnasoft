@@ -1,6 +1,6 @@
 <h4>TRACCIA PER SVOLGIMENTO PROVA PRATICA TECNICA</h4>
 
-<p>Nella cartella main troverete il file diagramma_er.jpg contenente il diagramma ER richiesto.</p>
+<p>Nella cartella main troverete il file <strong>diagramma_er.jpg</strong> contenente il diagramma ER richiesto.</p>
 
 <p>Come da richiesta è stato usato Laravel version 9.0</p>
 
