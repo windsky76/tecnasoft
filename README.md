@@ -5,11 +5,12 @@ Nella cartella gest_tecnasoft troverete il file diagramma_er.jpg  contenente il 
 Come da richiesta è stato usato Laravel version 9.0
 
 Migrations: Nella cartella gest_tecnasoft/database/migrations troverete le seguenti migrations:
-	- services_table relativa alla sezione Servizi Medici 
-	- points_table relativa alla sezione dei Points
-	- price_lists_table relativa alle gestione prezzi e Attivazione/Disattivazione dei singoli Servizi abbinati al singolo Point.
-	- sales_table relativa alla sezione Storico Vendite Articoli.
-
+<ul>
+<li>services_table relativa alla sezione Servizi Medici </li>
+	<li>points_table relativa alla sezione dei Points</li>
+	<li>price_lists_table relativa alle gestione prezzi e Attivazione/Disattivazione dei singoli Servizi abbinati al singolo Point.</li>
+	<li>sales_table relativa alla sezione Storico Vendite Articoli.</li>
+</ul>
 Models: Nella cartella gest_tecnasoft/app/Models troverete i models richiesti per lo svolgimento della prova.
         Ho deciso di utilizzare i setAttribute per dimostrarne la conoscenza e per creare uniformità nel testo inserito.
 
