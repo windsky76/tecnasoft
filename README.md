@@ -1,4 +1,4 @@
-<h6>TRACCIA PER SVOLGIMENTO PROVA PRATICA TECNICA</h6>
+<h4>TRACCIA PER SVOLGIMENTO PROVA PRATICA TECNICA</h4>
 
 <p>Nella cartella main troverete il file diagramma_er.jpg contenente il diagramma ER richiesto.</p>
 
