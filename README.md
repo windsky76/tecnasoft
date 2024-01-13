@@ -13,7 +13,7 @@
 </ul>
 <p><strong>Models:</strong> Nella cartella /app/Models troverete i models richiesti per lo svolgimento della prova.<br/>Ho deciso di utilizzare i setAttribute per dimostrarne la conoscenza e per creare uniformità nel testo inserito.</p>
 
-<p><strong>Controllers:</strong>Nella cartella /app/Http/Controllers troverete i controllers richiesti per lo svolgimento della prova.</br> 
+<p><strong>Controllers:</strong> Nella cartella /app/Http/Controllers troverete i controllers richiesti per lo svolgimento della prova.</br> 
   In ogni metodo trovare i commenti IN e OUT dove vengono specificati i parametri in ingresso ed uscita.</br>
   Ho preferito scrivere il codice per meglio dimostrare le scelte fatte per il miglior funzionamento della prova tecnica.</br>
   L'uso del metodo updateOrCreate è stato scelto rispetto al metodo Create per evitare possibili ridondanze nei Servizi e Point inseriti.</p>
