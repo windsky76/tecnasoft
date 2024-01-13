@@ -8,7 +8,7 @@
 <ul>
     <li>services_table relativa alla sezione Servizi Medici</li>
 	<li>points_table relativa alla sezione dei Points</li>
-	<li>price_lists_table relativa alle gestione prezzi e Attivazione/Disattivazione dei singoli Servizi abbinati al singolo Point.</li>
+	<li>price_lists_table relativa alla gestione prezzi e Attivazione/Disattivazione dei singoli Servizi abbinati al singolo Point.</li>
 	<li>sales_table relativa alla sezione Storico Vendite Articoli.</li>
 </ul>
 <p><strong>Models:</strong> Nella cartella /app/Models troverete i models richiesti per lo svolgimento della prova.<br/>Ho deciso di utilizzare i setAttribute per dimostrarne la conoscenza e per creare uniformità nel testo inserito.</p>
